@@ -3,7 +3,7 @@ lib = File.expand_path('../lib/', __FILE__)
 $:.unshift lib unless $:.include?(lib)
 
 Gem::Specification.new do |s|
-  s.name = "mongoid_search"
+  s.name = "mongoid_search_jruby"
   s.version = "0.3.2"
   s.authors = ["Mauricio Zaffari"]
   s.email =["mauricio@papodenerd.net"]
